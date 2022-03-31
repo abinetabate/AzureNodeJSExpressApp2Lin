@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'nodejscodeOnLinux'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8B86628F5BC34D6A9ED54D02EEA43A8A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_053A6F4B07DC421CB8EA29AD311BDE12 }}
           package: .
